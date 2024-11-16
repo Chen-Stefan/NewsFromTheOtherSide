@@ -1,7 +1,7 @@
 import Link from 'next/link'
 import { Globe } from 'lucide-react'
-import ThemeSwitch from './ThemeSwitch'
 import SearchButton from './SearchButton'
+import ThemeSwitch from './ThemeSwitch'
 
 const siteMetadata = {
     stickyNav: true,
