@@ -12,7 +12,6 @@ const headerNavLinks = [
     { href: '/', title: 'Home' },
     { href: '/trending', title: 'Trending' },
     { href: '/sources', title: 'Sources' },
-    { href: '/spectrum-guide', title: 'Spectrum Guide' },
     { href: '/about', title: 'About' },
 ]
 
