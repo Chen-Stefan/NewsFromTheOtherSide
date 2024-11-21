@@ -2,11 +2,7 @@ import Link from 'next/link'
 import { Globe } from 'lucide-react'
 import SearchButton from './SearchButton'
 import ThemeSwitch from './ThemeSwitch'
-
-const siteMetadata = {
-    stickyNav: true,
-    headerTitle: 'NewsFromTheOtherSide',
-}
+import siteMetadata from '@/data/siteMetadata'
 
 const headerNavLinks = [
     { href: '/', title: 'Home' },
