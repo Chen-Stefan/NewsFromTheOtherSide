@@ -1,5 +1,5 @@
 'use client'
-
+// This is a Client compnent
 import { Search } from 'lucide-react'
 
 const SearchButton = () => {

@@ -1,4 +1,5 @@
 'use client'
+// This is a Client compnent
 
 import { Fragment, useEffect, useState } from 'react'
 import { useTheme } from 'next-themes'

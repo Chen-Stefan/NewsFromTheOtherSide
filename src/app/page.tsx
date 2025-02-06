@@ -1,4 +1,4 @@
-// src/app/page.tsx
+// src/app/page.tsx        This is the homepage component
 import NavBar from '@/components/ui/NavBar'
 import Footer from '@/components/ui/Footer'
 
